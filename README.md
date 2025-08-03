@@ -61,7 +61,7 @@ Programming for me is more than just a job; it's an art and an endless journey o
   <a href="https://x.com/6line_ir" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
-  <a href="mailto://ali.sident@outlook.com" target="_blank">
+  <a href="mailto:ali.sident@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="37" height="25" alt="microsoft-outlook logo"  />
   </a>
 </div>
