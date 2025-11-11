@@ -24,7 +24,7 @@ A customer support and order management platform focused on automation and scala
 - Automating web-based processes using **n8n**
 
 <div align="center">
-  <img src="https://n8n.io/images/logo.svg" height="40" alt="n8n logo" />
+  <img src="[https://n8n.io/images/logo.svg](https://tse2.mm.bing.net/th/id/OIP.FOmz_U689dGUSH2hmmbypgHaCY?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3)" height="40" alt="n8n logo" />
 </div>
 
 > I'm using **n8n**, an open-source workflow automation tool, to design and implement scalable automations across the platform.
