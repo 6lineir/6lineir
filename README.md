@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me [ https://6line.netlify.app/ ]
+## 🧠 About Me [ https://6line.ir | Ali77heravi.ir ]
 
 - 🎯 Programming isn't just a job — it's an art and a never-ending journey of innovation.
 - 🔍 I'm passionate about languages like Python, TypeScript, JavaScript, C#, Go, and Rust.
