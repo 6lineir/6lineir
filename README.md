@@ -134,16 +134,37 @@ AI/LLM    →  Custom Agents · Prompt Engineering
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=6lineir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6lineir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<!-- Row 1: Stats + Top Languages -->
+<table>
+<tr>
+<td width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=6lineir&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&rank_icon=percentile&custom_title=Ali%27s%20GitHub%20Stats" width="100%"/>
+</td>
+<td width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6lineir&layout=donut&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&custom_title=Top%20Languages&size_weight=0.5&count_weight=0.5" width="100%"/>
+</td>
+</tr>
+</table>
+
+<!-- Row 2: Streak -->
+<img src="https://streak-stats.demolab.com?user=6lineir&locale=en&mode=weekly&hide_border=true&border_radius=10&background=0D1117&stroke=1f6feb&ring=58A6FF&fire=ff7b54&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&excludeDaysLabel=8b949e" height="165" width="100%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=6lineir&locale=en&mode=weekly&theme=github-dark-blue&hide_border=true&border_radius=8&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="150"/>
+<!-- Row 3: Activity Graph — full width, most impactful -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=6lineir&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=6" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app?username=6lineir&theme=github_dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150"/>
+<!-- Row 4: Trophies -->
+<img src="https://github-profile-trophy.vercel.app?username=6lineir&theme=onestar&column=7&row=1&margin-w=6&margin-h=6&no-bg=true&no-frame=true" width="100%"/>
+
+<br/>
+
+<!-- Row 5: Metrics summary badges -->
+<img src="https://img.shields.io/github/followers/6lineir?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1f6feb&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/6lineir?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=58a6ff&labelColor=0d1117&affiliations=OWNER%2CCOLLABORATOR"/>
+<img src="https://komarev.com/ghpvc/?username=6lineir&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=Profile+Views"/>
 
 </div>
 
@@ -152,12 +173,27 @@ AI/LLM    →  Custom Agents · Prompt Engineering
 ## 🐍 Contribution Activity
 
 <div align="center">
+
+<!-- Snake animation — auto-generated via GitHub Actions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6lineir/6lineir/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/6lineir/6lineir/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/6lineir/6lineir/output/pacman-contribution-graph-dark.svg" width="100%"/>
 </picture>
+
+<br/>
+
+<!-- 3D Contribution Calendar -->
+<img src="https://github-profile-3d-contrib.vercel.app/api/top-contrib?username=6lineir&theme=github_dark&border_radius=10" width="100%"/>
+
+<br/>
+
+<!-- Isometric Stats Card -->
+<img src="https://github-stats-alpha.vercel.app/api?username=6lineir&cc=0d1117&tc=58a6ff&ic=1f6feb&bc=1f6feb" width="55%"/>
+
 </div>
+
+> **💡 راه‌اندازی خودکار انیمیشن‌ها:** برای فعال‌سازی Pacman و Snake graphs، فایل `.github/workflows/snake.yml` را در ریپو اضافه کنید — [راهنما اینجاست](https://github.com/Platane/snk)
 
 ---
 
